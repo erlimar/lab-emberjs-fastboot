@@ -1,0 +1,1 @@
+# lab-emberjs-fastboot
